@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why lambda expression in Java doesn't accept modifying a local variable?"
 date:   2023-02-01 16:29:31 +0900
 categories: java
 ---
