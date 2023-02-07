@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "20230206 TED - Grit: the power of passion and perseverance"
-date:   2023-02-01 16:29:31 +0900
+date:   2023-02-06 22:29:31 +0900
 categories: ted
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H14bBuluwB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
